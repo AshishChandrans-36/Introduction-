@@ -1,6 +1,6 @@
 - Hi, I’m Ashish Chandrans.
 - I’m interested in solving problems related to advanced cybersecurity and cryptography.
-- Also interested in multiple disciplines like Ai ethics and Ai modeling.
+- Also interested in disciplines like Ai ethics and Ai modeling.
 - I’m currently learning about Computer science engineering at Lovely Professional University.
 - I’m looking to collaborate to modern tech investors and global startups.
 - How to reach me contact me through my website and gmail.
